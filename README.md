@@ -19,7 +19,6 @@ O objetivo é demonstrar como diferentes algoritmos conseguem ordenar conjuntos 
 - **Linguagem:** Java
 - **Primeiro integrante:** Daniel Paulo de Oliveira Almeida Filho
 - **Segundo integrante:** Ricardo Alexandre Cabral de Godói Filho
-- 
 
 **Repositório:** https://github.com/Dann1108/Algoritmos-Ordena-o-Java
 
